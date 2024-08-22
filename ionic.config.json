@@ -1,0 +1,7 @@
+{
+  "name": "skibidiAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
